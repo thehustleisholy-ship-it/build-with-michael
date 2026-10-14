@@ -5,7 +5,7 @@ I'm Michael, the builder behind THIH Systems and The Hustle Is Holy™. My alleg
 
 **You are welcome to learn alongside me, question a decision, or improve an explanation.**
 
-[Start here](START-HERE.md) · [Build journal](journal/README.md) · [Current focus](NOW.md) · [Roadmap](ROADMAP.md) · [Contribute](CONTRIBUTING.md)
+[Join the conversation](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) · [Start here](START-HERE.md) · [Build journal](journal/README.md) · [Current focus](NOW.md) · [Roadmap](ROADMAP.md) · [Contribute](CONTRIBUTING.md)
 
 ## On the workbench
 
@@ -27,7 +27,7 @@ The technical examples are teaching demonstrations, not current diagnostics from
 
 Read a field note and try its small exercise. If something is unclear or incorrect, [open a documentation issue](https://github.com/thehustleisholy-ship-it/build-with-michael/issues/new/choose) or propose a correction through a pull request. See [contribution guidance](CONTRIBUTING.md).
 
-Discussions will become the conversation space once enabled. Issues are for actionable improvements; the journal holds the lasting record.
+[Discussions is open](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) for questions, ideas, and build conversations. Issues are for actionable improvements; the journal holds the lasting record.
 
 ## What you can expect
 
