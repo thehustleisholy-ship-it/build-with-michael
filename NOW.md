@@ -1,21 +1,19 @@
-# Current focus
+# What I'm working on now
 
-Updated: October 13, 2026, America/Chicago.
+Updated October 14, 2026, America/Chicago.
 
-## Building now
+I'm getting this workshop into a shape I can use regularly, alongside the Linux learning itself. I want a place where I can return to a lesson, see what I understood, and pick up the next question.
 
-Establishing this public workshop and documenting Linux fundamentals with explanations a beginner can follow.
+My immediate focus is the foundation: navigating, reading files, understanding paths, and checking what a command actually tells me.
 
-## Next evidence to publish
+## Next up
 
-1. A sanitized, dated Linux lab inventory with an explanation of each check.
-2. The inventory script with instructions and a demonstration from two working directories.
-3. A small scheduling experiment with expected behavior and observed results.
+I want to bring three pieces of the lab work into this journal:
 
-These are upcoming deliverables, not completed public demonstrations.
+1. A dated look at the Linux lab, with private details removed and an explanation of the checks.
+2. The inventory script, including a demonstration of what happens when I run it from two different directories.
+3. A scheduling experiment showing what I expected, what happened, and how I checked it.
 
-## Working rule
+Those reports still need to be published. For now, the journal contains introductory notes and teaching examples.
 
-Publish what can be explained. Mark assumptions. Record what was tested and what remains uncertain.
-
-The current journal starts with standalone teaching examples. It does not expose live host details or claim current server health.
+If you're following along, [what helped Linux begin to feel familiar to you?](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions)

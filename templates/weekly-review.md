@@ -1,16 +1,18 @@
-# Weekly build review: [date range]
+# This week in the workshop: [dates]
 
-## Shipped
-Link to usable changes and their evidence.
+A few paragraphs are enough. Tell the truth about the week.
 
-## Learned
-Explain one lesson another beginner can use.
+## What moved forward
+Link to the work and describe what changed.
 
-## Still unresolved
-Describe the obstacle and what has already been tried.
+## What stayed with me
+Explain one thing I learned well enough for someone else to use it.
 
-## Next
-Choose one achievable next step.
+## What I'm still working through
+Name the obstacle and what I've tried so far.
 
-## Community
-Credit useful feedback, sources, and contributions.
+## Where I'm picking up next
+Choose one realistic next step.
+
+## Who helped
+Credit the people, projects, or explanations that made a difference.

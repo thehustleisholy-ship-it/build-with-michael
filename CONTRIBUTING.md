@@ -1,25 +1,25 @@
-# Contributing
+# Help me make this better
 
-Clear explanations and careful questions are useful contributions.
+If you spot something wrong, or you reach a sentence that doesn't make sense, I want to hear about it. You don't need a finished solution before you can be helpful.
 
-## Choose the right place
+## Where to bring it
 
-- **Documentation issue:** A broken link, unclear instruction, or reproducible error in an example.
-- **Pull request:** A specific improvement to files in this repository.
-- **Discussions, once enabled:** Questions, ideas, learning experiences, and feedback on work in progress.
+- [Discussions](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) is for questions, ideas, and talking through the work.
+- [Issues](https://github.com/thehustleisholy-ship-it/build-with-michael/issues/new/choose) are for a specific thing to fix, such as a broken link or an example that doesn't work as described.
+- A pull request is a way to propose the file change itself.
 
-Before opening an issue, check whether the same problem is already listed.
+Take a quick look at existing issues first so we can keep the same problem in one conversation.
 
-## Make a useful correction
+## Give me enough to follow along
 
-Identify the file and passage. Explain what is wrong or unclear. Include expected and observed behavior when relevant, with the environment needed to reproduce it.
+Link to the page or passage. Tell me what you expected and what happened. If a command behaved differently, include the operating system and shell when relevant.
 
-Keep changes focused. Preserve attribution. State what was actually tested. If AI helped, explain what it contributed and how you checked the result.
+Keep a proposed change focused. Credit the original source. Tell me what you checked and what you haven't checked yet. The same applies when AI helped produce the change.
 
-## Work with care
+## Treat the people and their information with care
 
-Use fictional or sanitized examples. Do not include passwords, tokens, personal records, customer information, or live infrastructure details.
+Use made-up examples or remove private details before sharing output. Leave out passwords, tokens, personal records, customer information, and sensitive details about live systems.
 
-Treat people with dignity. Critique the work specifically and respectfully. Beginners are welcome; harassment, spam, and personal attacks are not.
+We can disagree and correct each other respectfully. Beginners are welcome. Harassment, spam, and personal attacks aren't.
 
-This workshop reflects Michael's Christian convictions. Participation is open to people of any faith or none.
+My faith in Jesus Christ is part of this workshop. You're welcome to participate whether you share that faith or not.

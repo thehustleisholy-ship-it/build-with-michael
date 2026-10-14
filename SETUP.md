@@ -1,48 +1,42 @@
-# Remaining owner setup
+# Keeping the workshop in order
 
-The workshop files are ready. These settings require repository or profile controls.
+The workshop and personal profile are live, and Discussions is enabled. These notes are here so I can keep the setup understandable as it grows.
 
-## Enable the conversation space
+## The conversation space
 
-Open this repository's Settings. Under General, find Features and enable Discussions.
+[Discussions](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) is open. These are suggested categories to review, not a claim that each has been configured:
 
-Suggested categories:
-
-| Category | Format | Purpose |
+| Category | Format | What belongs here |
 | --- | --- | --- |
-| Announcements | Announcement | Important workshop updates |
-| Build Notes | Open-ended discussion | Share a journal link, short takeaway, and question |
-| Help Me Understand | Question and answer | Beginner questions and useful explanations |
-| Ideas and Feedback | Open-ended discussion | Discuss possible improvements before making tasks |
-| Polls | Polls | Ask a focused question when there is a real decision |
+| Announcements | Announcement | Updates people should know about |
+| Build Notes | Open-ended discussion | A journal link, a takeaway, and a question |
+| Help Me Understand | Question and answer | Questions we can work through |
+| Ideas and Feedback | Open-ended discussion | Things worth exploring before making a task |
+| Polls | Polls | A focused question about a real decision |
 
-Keep the complete field note in the journal. A Discussion can link to it and hold the conversation. Add a Discussions link to the homepage after enabling it.
+I'll keep complete entries in the journal and use Discussions for the conversation around them.
 
-## Install the personal profile
+## The personal profile
 
-Create a public repository named exactly `thehustleisholy-ship-it` under the account with that username, and initialize it with a README.
+The public profile repository is [thehustleisholy-ship-it](https://github.com/thehustleisholy-ship-it/thehustleisholy-ship-it). Its root README supplies the introduction on my profile.
 
-Copy the contents of [profile/README.md](profile/README.md) into that repository's root `README.md`. The file in this workshop is prepared source; it does not activate a profile by itself.
+[profile/README.md](profile/README.md) keeps a copy here. Changes to that copy do not automatically update the profile repository.
 
-Pin `build-with-michael` on the profile.
+The workshop can be pinned from the profile's "Customize your pins" control. Pinning status hasn't been verified.
 
-## Repository description
+## Description and topics
 
-Suggested description:
+Suggested repository description:
 
-> Michael's public workshop for Linux learning, practical automation, and useful tools. Field notes, experiments, and clear evidence of progress.
+> I'm learning Linux, building practical tools, and sharing the questions and lessons along the way. Come build with me.
 
 Suggested topics: `build-in-public`, `linux`, `learning-in-public`, `homelab`, `automation`, `documentation`.
 
-## First week
+## Keeping it moving
 
-1. Read and personalize the opening field note.
-2. Enable Discussions and share that note in Announcements.
-3. Publish one sanitized piece of actual lab evidence.
-4. Ask one specific question in a Discussion.
-5. Use the weekly review template to record what changed.
+The next useful step is a piece of actual lab work with enough explanation for someone else to follow it. Then I can ask a focused question and use the feedback.
 
-No automated posting is configured. No finished software release is claimed.
+The [build-note](templates/build-note.md) and [weekly-review](templates/weekly-review.md) prompts are there when I need them. There's no automated posting configured.
 
 ## GitHub references
 

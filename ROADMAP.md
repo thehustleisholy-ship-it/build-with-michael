@@ -1,34 +1,35 @@
-# Workshop roadmap
+# Where I'm headed
 
-This is a sequence of work, not a promise of delivery dates.
+Here's what I want to work through next. I'll adjust the order as I learn more. Dates can come when I have a better basis for them.
 
-## Foundation
+## Getting the workshop open
 
-- [x] Publish the workshop homepage and beginner navigation.
-- [x] Add three introductory field notes.
-- [x] Add reusable journal and weekly review templates.
-- [x] Provide a documentation issue form and contribution guidance.
-- [ ] Enable Discussions and configure the conversation categories.
-- [ ] Create the personal profile repository and install its prepared README.
+- [x] Put the homepage and starting points in place.
+- [x] Add the first three field notes.
+- [x] Add templates to make the next update easier to write.
+- [x] Give people a way to suggest corrections.
+- [x] Enable Discussions.
+- [x] Create the personal profile and connect it to the workshop.
+- [ ] Review the Discussion categories and decide which ones we'll actually use.
 
-## First featured build: Linux lab documentation
+## Bring the Linux lab into the journal
 
-- [ ] Publish a dated, sanitized lab overview.
-- [ ] Publish the inventory script with its prerequisites.
-- [ ] Show the same script running from two working directories.
-- [ ] Explain expected output, failure cases, and verification.
-- [ ] Invite feedback and incorporate a useful correction.
+- [ ] Publish a dated lab overview with private details removed.
+- [ ] Share the inventory script and explain what it needs to run.
+- [ ] Show it running from two different directories.
+- [ ] Explain the results, including anything that fails.
+- [ ] Ask for feedback and work through a useful correction.
 
-## Next learning milestone
+## Learn to schedule a task
 
-- [ ] Compare a manual run with a scheduled run.
-- [ ] Choose a scheduler for one concrete task and explain the decision.
-- [ ] Document how to confirm a run occurred and investigate a missed run.
+- [ ] Compare running a task myself with having it run on a schedule.
+- [ ] Choose a scheduler for that task and explain why.
+- [ ] Show how I confirm that it ran and investigate if it didn't.
 
-## Later
+## Further along
 
-- [ ] Add a practical automation case study.
-- [ ] Add a small-business problem study with fictional or permissioned examples.
-- [ ] Consider a GitHub Pages reading interface once the journal has a useful body of work.
+- [ ] Write up a practical automation experiment.
+- [ ] Work through a small-business problem using fictional or permissioned examples.
+- [ ] Consider a GitHub Pages reading view when there's enough here to justify it.
 
-A milestone is complete when the linked evidence is available, understandable, and checked.
+I'll check an item off when the work and its results are available to inspect.

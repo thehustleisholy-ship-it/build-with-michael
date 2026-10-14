@@ -1,25 +1,29 @@
-# [Number]: [Specific problem or discovery]
+# [Number]: [What happened or what I learned]
 
 Date:
-Type: Experiment / Verified build / Teaching demonstration / Proposal
+Kind of entry: Experiment / Verified build / Teaching example / Idea
 Project link:
 
-## Problem
-Who encounters this, and why does it matter?
+Use the prompts that help tell this particular story. It doesn't need every heading, and it doesn't need to sound like the previous post.
 
-## Attempt
-What did I change? Explain the important choices.
+## What was I trying to do?
+Explain the need in ordinary language. Who would this help?
 
-## Evidence
-Link to the commit, sanitized output, screenshot, or reproducible demonstration.
-State the environment and date. Label illustrative output explicitly.
+## What did I try?
+Walk through the choices that mattered. Include the unsuccessful attempt if it teaches something.
 
-## Lesson
-What worked? What failed? What remains uncertain?
-If AI assisted, describe its contribution and what I checked.
+## What happened?
+Show the result with a link, command output, or a useful screenshot.
+Include the environment and date. Remove private details.
+Say clearly when an example is illustrative.
 
-## Next question
-Ask one specific question that someone can help answer.
+## What do I understand now?
+What can I explain that I couldn't explain before?
+What am I still unsure about?
+If AI helped, what did it do and how did I check the result?
 
-## Follow-up
-Record later corrections and link to the next entry.
+## What would you try next?
+Ask a question connected to the actual work.
+
+## Coming back to this
+Add later corrections here and link to the follow-up.

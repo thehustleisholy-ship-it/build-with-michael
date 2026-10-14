@@ -1,36 +1,45 @@
 # Build with Michael
-### Learning in public. Building with purpose. Serving through useful work.
 
-I'm Michael, the builder behind THIH Systems and The Hustle Is Holy™. My allegiance is to Jesus Christ. This is my public workshop for learning Linux, understanding systems, and developing practical tools that serve people.
+I'm Michael. This is where I'm putting the work out in the open.
 
-**You are welcome to learn alongside me, question a decision, or improve an explanation.**
+I want to use GitHub the way people use their favorite social platforms: show up, share what's happening, ask questions, and get to know people through what they're doing. Here, you can also look at the work itself and help make it better.
 
-[Join the conversation](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) · [Start here](START-HERE.md) · [Build journal](journal/README.md) · [Current focus](NOW.md) · [Roadmap](ROADMAP.md) · [Contribute](CONTRIBUTING.md)
+I'm learning Linux, getting more comfortable with systems, and exploring tools for the real problems I encounter in business and ministry. Some days that means understanding a command. Other days it means figuring out why something worked in one place and failed somewhere else.
 
-## On the workbench
+[Start here](START-HERE.md) · [Read the journal](journal/README.md) · [What I'm working on](NOW.md) · [Let's talk](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions)
 
-| Track | What I'm working toward | Current stage |
+## Why I'm doing this
+
+I keep thinking about how much time passed before I took a closer look at Linux. Now that I've started, I want to keep going and understand it well enough to make it part of everyday life.
+
+Writing things down gives me a chance to see whether I can actually explain them. Sharing them gives someone else a chance to ask the question I missed. If these notes help another person get started, that's useful work too.
+
+I follow Jesus Christ. My work through **THIH Systems** and **The Hustle Is Holy™** grows out of that conviction. I want to be honest about what I know, willing to be corrected, and thoughtful about whom the work serves.
+
+## What's taking shape
+
+| Area | What I'm trying to do | Where it stands |
 | --- | --- | --- |
-| Linux and systems | Understand the commands, explain the behavior, troubleshoot with evidence | Learning and documenting |
-| Practical automation | Turn repetitive work into understandable, maintainable tools | Experiments |
-| Tools for people | Explore real operational problems in small businesses and ministry | Problem definition and prototypes |
+| Linux and systems | Understand the commands and learn how to investigate a problem | Learning and documenting |
+| Automation | Make repetitive work easier while understanding how the tool works | Experimenting |
+| Business and ministry tools | Start with a real need and work toward something useful | Exploring problems and prototypes |
 
-## Latest field notes
+The [roadmap](ROADMAP.md) holds the next steps. I'll update it as the work develops.
 
-- [001: Why this workshop exists](journal/001-why-this-workshop-exists.md)
-- [002: A matching line is a clue](journal/002-a-matching-line-is-a-clue.md)
-- [003: Where you stand changes what a path means](journal/003-where-you-stand.md)
+## A few things to read
 
-The technical examples are teaching demonstrations, not current diagnostics from my server.
+- [Why I'm opening the workshop](journal/001-why-this-workshop-exists.md)
+- [Finding a matching line doesn't finish the investigation](journal/002-a-matching-line-is-a-clue.md)
+- [Where you stand changes what a path means](journal/003-where-you-stand.md)
 
-## How to participate
+The command and path examples are small teaching exercises. Actual build reports will include the dated results and the details needed to check them.
 
-Read a field note and try its small exercise. If something is unclear or incorrect, [open a documentation issue](https://github.com/thehustleisholy-ship-it/build-with-michael/issues/new/choose) or propose a correction through a pull request. See [contribution guidance](CONTRIBUTING.md).
+## Pull up a chair
 
-[Discussions is open](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) for questions, ideas, and build conversations. Issues are for actionable improvements; the journal holds the lasting record.
+Tell me what you're learning. Ask about something that doesn't make sense. If you see a better way to do something, explain it.
 
-## What you can expect
+[Discussions](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions) is where we can have those conversations. If a page needs fixing, [open an issue](https://github.com/thehustleisholy-ship-it/build-with-michael/issues/new/choose) or [propose a change](CONTRIBUTING.md).
 
-Plain-English explanations, honest progress, useful examples, and clear distinctions between plans and verified results. Credit stays with original creators. AI assistance does not replace checking the work.
+When I use someone else's work, they deserve the credit. When AI helps, I still need to understand and check the result. Those are habits I want to build alongside the technical skills.
 
 **The Hustle Is Holy™ · Your Hustle. His Glory.**
