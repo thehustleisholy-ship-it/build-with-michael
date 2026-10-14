@@ -1,0 +1,28 @@
+name: Improve an explanation
+description: Report an unclear instruction, broken link, or error in a teaching example.
+title: "[Docs] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File or page
+      description: Link to the passage you want to improve.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is unclear or incorrect?
+      description: Include expected and observed behavior for command examples.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: A question or explanation is welcome even if you do not have a code fix.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: If relevant, list your operating system and shell. Leave out private host details.
